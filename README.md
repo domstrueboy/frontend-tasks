@@ -13,3 +13,6 @@
 - `MobileLove.docEvent` можно заменить на `click`
 
 ## 2) Vue.js
+
+https://ninjamock.com/s/NH22ZDx
+https://www.themoviedb.org/person
